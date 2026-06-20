@@ -30,5 +30,3 @@ npm install
 npm start
 ```
 
-## Live Demo
-[ordersync-style link here]
